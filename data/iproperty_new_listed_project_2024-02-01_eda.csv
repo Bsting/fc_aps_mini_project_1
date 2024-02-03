@@ -74,8 +74,8 @@ Eco Grandeur - Garden Home @ Norton Garden,New Launch,2-sty Terrace/Link House,L
 Eco Grandeur - Wellington Garden,New Launch,2-sty Terrace/Link House,Leasehold,Residential,666000.0,1469,4,3,2,House,Bandar Puncak Alam,Selangor
 Eco Grandeur - Wellington Garden,New Launch,2-sty Terrace/Link House,Leasehold,Residential,706000.0,1491,4,3,2,House,Bandar Puncak Alam,Selangor
 Eco Grandeur - Wellington Garden,New Launch,2-sty Terrace/Link House,Leasehold,Residential,677000.0,1493,4,3,2,House,Bandar Puncak Alam,Selangor
-The Nobel Healthcare Park,New Launch,Suites,Leasehold,Commercial,338000.0,268,0,1,0,House,Bukit Jalil,Kuala Lumpur
-The Nobel Healthcare Park,New Launch,Suites,Leasehold,Commercial,414000.0,223,0,1,0,House,Bukit Jalil,Kuala Lumpur
+The Nobel Healthcare Park,New Launch,Suites,Leasehold,Commercial,338000.0,268,1,1,0,House,Bukit Jalil,Kuala Lumpur
+The Nobel Healthcare Park,New Launch,Suites,Leasehold,Commercial,414000.0,223,1,1,0,House,Bukit Jalil,Kuala Lumpur
 Sky Trees Commercial,New Launch,Shop Office,Freehold,Commercial,687000.0,894,0,0,1,Shop or Office,Iskandar Puteri (Nusajaya),Johor
 Sky Trees Commercial,New Launch,Shop Office,Freehold,Commercial,886000.0,1087,0,0,2,Shop or Office,Iskandar Puteri (Nusajaya),Johor
 Sky Trees Commercial,New Launch,Shop Office,Freehold,Commercial,745000.0,904,0,0,1,Shop or Office,Iskandar Puteri (Nusajaya),Johor
@@ -115,9 +115,9 @@ Amansara North,New Launch,1-sty Terrace/Link House,Freehold,Residential,707750.0
 Mori Pines,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,849800.0,1778,3,3,2,House,Kuala Langat,Selangor
 Mori Pines,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,903800.0,1857,3,3,2,House,Kuala Langat,Selangor
 Mori Pines,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,1280800.0,2305,4,4,3,House,Kuala Langat,Selangor
-Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,909865.0,1670,0,0,3,House,Kayu Ara,Selangor
-Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,733015.0,1279,0,0,1,House,Kayu Ara,Selangor
-Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,774190.0,1279,0,0,2,House,Kayu Ara,Selangor
+Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,909865.0,1670,4,3,3,House,Kayu Ara,Selangor
+Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,733015.0,1279,3,2,1,House,Kayu Ara,Selangor
+Glomac Centro Serviced Apartment,Open for Sale,Serviced Residence,Leasehold,Residential,774190.0,1279,3,2,2,House,Kayu Ara,Selangor
 Riana Trees Residences @ Pantai Sentral Park,New Launch,Condominium,Leasehold,Residential,613000.0,900,3,2,2,House,KL City,Kuala Lumpur
 Riana Trees Residences @ Pantai Sentral Park,New Launch,Condominium,Leasehold,Residential,625000.0,955,3,2,2,House,KL City,Kuala Lumpur
 EMBER @ Eco Ardence,New Launch,Semi-detached House,Freehold,Residential,1896000.0,2344,5,4,3,House,Shah Alam,Selangor
@@ -213,9 +213,9 @@ Molek Pulai Serviced Apartments,New Launch,Serviced Residence,Freehold,Residenti
 Molek Pulai Serviced Apartments,New Launch,Serviced Residence,Freehold,Residential,685000.0,1431,3,3,2,House,Johor Bahru,Johor
 Ponderosa Lakeside Luxury Apartments,Completed Project,Apartment,Freehold,Residential,848000.0,2228,4,4,2,House,Johor Bahru,Johor
 Ponderosa Lakeside Luxury Apartments,Completed Project,Apartment,Freehold,Residential,868000.0,2281,4,4,2,House,Johor Bahru,Johor
-Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,678800.0,1917,0,0,0,House,Kuala Langat,Selangor
-Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,988800.0,2239,0,0,0,House,Kuala Langat,Selangor
-Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,783800.0,1962,0,0,0,House,Kuala Langat,Selangor
+Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,678800.0,1917,4,3,0,House,Kuala Langat,Selangor
+Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,988800.0,2239,4,4,0,House,Kuala Langat,Selangor
+Tropicana Alam - Phase 1A,Open for Registration,2-sty Terrace/Link House,Leasehold,Residential,783800.0,1962,4,3,0,House,Kuala Langat,Selangor
 Merissa Serviced Suites,Open for Sale,Serviced Residence,Freehold,Commercial,1826000.0,1119,2,2,2,House,Pulau Langkawi,Kedah
 Merissa Serviced Suites,Open for Sale,Serviced Residence,Freehold,Commercial,2271000.0,1303,2,2,2,House,Pulau Langkawi,Kedah
 Merissa Serviced Suites,Open for Sale,Serviced Residence,Freehold,Commercial,1716000.0,1066,2,2,2,House,Pulau Langkawi,Kedah
