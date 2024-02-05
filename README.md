@@ -1,6 +1,6 @@
 # Foward College - Applied Data Science Mini Project 1
 Mini Project 1 for Applied Data Science course.<br> 
-This project analyse a dataset of new listed properties on 2024-02-01 from __[iProperty.com.my](https://www.iproperty.com.my/new-property)__.
+This project analyses a dataset of new listed properties on 2024-02-01 from __[iProperty.com.my](https://www.iproperty.com.my/new-property)__.
 
 ## Project Structure
 - web_scraping folder, contains notebook to scrape data from iProperty.com.my
@@ -11,11 +11,12 @@ This project analyse a dataset of new listed properties on 2024-02-01 from __[iP
 
 ## Prerequisite
 - Install Anaconda, __[Anaconda Installation](https://docs.anaconda.com/free/anaconda/install/index.html)__
-- Create a virtual environment
+- Create a virtual environment with the name 'mini_project_1' and python 3.10
   ```
-  # create a conda virtual environment with the name 'mini_project_1' and python 3.10
   conda create -n mini_project_1 python=3.10
-  # activate 'mini_project_1'
+  ```
+- Activate mini_project_1
+  ```
   conda activate mini_project_1
   ```
 
