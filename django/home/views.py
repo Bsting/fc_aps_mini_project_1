@@ -3,11 +3,14 @@ from .forms import LoginForm, RegistrationForm, UserPasswordResetForm, UserSetPa
 from django.contrib.auth import logout
 from django.contrib.auth import views as auth_views
 from django.contrib.auth.decorators import login_required
+from .eda import DataAnalysis
 
 # Create your views here.
 
 @login_required(login_url='/accounts/login')
 def index(request):
+  data_analysis = DataAnalysis()
+  data_analysis.get_pie_chart_status()
   return render(request, 'pages/index.html')
 
 @login_required(login_url='/accounts/login')
