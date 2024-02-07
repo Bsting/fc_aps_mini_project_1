@@ -5,17 +5,18 @@ from django.contrib.auth import views as auth_views
 from django.contrib.auth.decorators import login_required
 from .eda import DataAnalysis
 
-# Create your views here.
+data_analysis = DataAnalysis()
 
 @login_required(login_url='/accounts/login')
-def index(request):
-  data_analysis = DataAnalysis()
-  data_analysis.get_pie_chart_status()
+def index(request):  
   return render(request, 'pages/index.html')
 
 @login_required(login_url='/accounts/login')
 def word_cloud(request):
   return render(request, 'pages/word-cloud.html')
+
+def get_status_pie_chart(request):
+  return data_analysis.get_status_pie_chart()
 
 def typography(request):
   return render(request, 'pages/typography.html')

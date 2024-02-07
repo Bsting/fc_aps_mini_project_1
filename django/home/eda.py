@@ -34,8 +34,8 @@ class DataAnalysis:
         plt.title(title)
         return plt
 
-    def get_pie_chart_status(self):
+    def get_status_pie_chart(self):
         self.plot_pie_chart(self.df_project, 'status', 'title', f"Status for Housing Properties Listed on iProperty.com.my\n{self.date}")
-        response = HttpResponse(content_type="image/jpeg")
-        plt.savefig(response, format="png")
+        response = HttpResponse(content_type="image/png")
+        plt.savefig(response, format="png", transparent=True)
         return response

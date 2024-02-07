@@ -6,6 +6,7 @@ from django.contrib.auth import views as auth_views
 urlpatterns = [
     path('', views.index),
     path('word-cloud/', views.word_cloud, name='word_cloud'),
+    path('get-status-pie-chart/', views.get_status_pie_chart, name='get_status_pie_chart'),
     path('typography/', views.typography, name='typography'),
     path('color/', views.color, name='color'),
     path('icon-tabler/', views.icon_tabler, name='icon_tabler'),
