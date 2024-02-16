@@ -1,0 +1,242 @@
+{% extends 'layouts/base.html' %}
+{% load static %}
+
+{% block title %} Dashboard {% endblock title %}
+{% block content %}
+  <div class="pc-container">
+    <h2 class="text-center p-2" style="white-space: pre-line">{{ dashboard_title }}</h1>
+    <div class="pc-content">
+      <div class="row">
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card bg-blue-600 dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_status_pie_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="status-pie-chart-desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card bg-blue-600 dashnum-card">
+            <img src="{% url 'dashboard_tenure_pie_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="tenure-pie-chart-desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card bg-blue-600 dashnum-card">
+            <img src="{% url 'dashboard_land_title_pie_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="land-title-pie-chart-desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pc-content bg-indigo-700">
+      <div class="row">
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_property_type_bar_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="property-type-bar-chart-desc"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_state_bar_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="state-bar-chart-desc"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_city_bar_chart' %}">
+            <div class="card-body">
+              <p class="card-text" id="city-bar-chart-desc"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pc-content">
+      <div class="row">
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card card bg-blue-600 dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_state_box_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_state_box_plot_desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card card bg-blue-600 dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_land_title_box_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_land_title_box_plot_desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card card bg-blue-600 dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_tenure_box_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_tenure_box_plot_desc" style="color:white;"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pc-content bg-indigo-700">
+      <div class="row">
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_state_scatter_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_state_scatter_plot_desc"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_land_title_scatter_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_land_title_scatter_plot_desc"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_tenure_scatter_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price_tenure_scatter_plot_desc"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="pc-content">
+      <div class="row aligns-items-center justify-content-center">
+        <div class="col-lg-4 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_box_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price-box-plot-desc"></p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-8 d-flex align-items-stretch">
+          <div class="card dashnum-card">
+            <img class="card-img-top" src="{% url 'dashboard_price_hist_plot' %}">
+            <div class="card-body">
+              <p class="card-text" id="price-hist-plot-desc"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+{% endblock content %}
+{% block extra_js %}
+<script>  
+  fetch({% url 'dashboard_pie_chart_description' %}, {
+    method: 'GET',
+    headers: {
+        'Content-Type': 'application/json'
+    }
+  })
+  .then(response => {
+    result = response.json()
+    status_code = response.status;
+    if(status_code != 200) {
+        return false;
+    }      
+    return result
+  })
+  .then(result => {
+    document.getElementById('status-pie-chart-desc').innerHTML = result.status
+    document.getElementById('tenure-pie-chart-desc').innerHTML = result.tenure
+    document.getElementById('land-title-pie-chart-desc').innerHTML = result.land_title
+  })
+
+  fetch({% url 'dashboard_bar_chart_description' %}, {
+    method: 'GET',
+    headers: {
+        'Content-Type': 'application/json'
+    }
+  })
+  .then(response => {
+    result = response.json()
+    status_code = response.status;
+    if(status_code != 200) {
+        return false;
+    }      
+    return result
+  })
+  .then(result => {
+    document.getElementById('property-type-bar-chart-desc').innerHTML = result.property_type
+    document.getElementById('state-bar-chart-desc').innerHTML = result.state
+    document.getElementById('city-bar-chart-desc').innerHTML = result.city
+  })
+
+  fetch({% url 'dashboard_price_category_plot_description' %}, {
+    method: 'GET',
+    headers: {
+        'Content-Type': 'application/json'
+    }
+  })
+  .then(response => {
+    result = response.json()
+    status_code = response.status;
+    if(status_code != 200) {
+        return false;
+    }      
+    return result
+  })
+  .then(result => {
+    document.getElementById('price_state_box_plot_desc').innerHTML = result.state
+    document.getElementById('price_tenure_box_plot_desc').innerHTML = result.tenure
+    document.getElementById('price_land_title_box_plot_desc').innerHTML = result.land_title
+  })
+
+  fetch({% url 'dashboard_price_scatter_plot_description' %}, {
+    method: 'GET',
+    headers: {
+        'Content-Type': 'application/json'
+    }
+  })
+  .then(response => {
+    result = response.json()
+    status_code = response.status;
+    if(status_code != 200) {
+        return false;
+    }      
+    return result
+  })
+  .then(result => {
+    document.getElementById('price_state_scatter_plot_desc').innerHTML = result.state
+    document.getElementById('price_tenure_scatter_plot_desc').innerHTML = result.tenure
+    document.getElementById('price_land_title_scatter_plot_desc').innerHTML = result.land_title
+  })
+
+  fetch({% url 'dashboard_price_plot_description' %}, {
+    method: 'GET',
+    headers: {
+        'Content-Type': 'application/json'
+    }
+  })
+  .then(response => {
+    result = response.json()
+    status_code = response.status;
+    if(status_code != 200) {
+        return false;
+    }      
+    return result
+  })
+  .then(result => {
+    document.getElementById('price-box-plot-desc').innerHTML = result.box
+    document.getElementById('price-hist-plot-desc').innerHTML = result.hist
+  })
+</script>
+{% endblock extra_js %}
