@@ -66,8 +66,35 @@ Team members
   python manage.py makemigrations
   python manage.py migrate
   ```
+- Create the Superuser
+  ```
+  python manage.py createsuperuser
+  ```
 - Start the app
   ```
   python manage.py runserver
   ```
 - The app runs at http://127.0.0.1:8000/
+- Login page
+
+  <img width="824" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/63e33633-2ba8-49ed-9f66-f3ba35d7776a">
+  
+- User registration page
+  
+  <img width="824" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/63c8eadf-e562-4de0-8a2e-242b1fb74296">
+  
+- Admin page
+  
+  <img width="925" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/b1d2032c-ae48-4030-9cd7-e99d2382cd09">
+  
+- Dashboard in light mode
+  
+  <img width="931" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/be72249c-240f-42a1-909b-c3ae7dbe23b0">
+  <img width="915" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/111d0d3d-9c22-4bc2-82d7-fefef6904a73">
+  <img width="926" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/6104821c-f80e-4c71-8bcf-39e66c9f8fd5">
+
+- Dashboard in dark mode
+  
+  <img width="929" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/9b17af93-417e-4d3d-88e7-903400228883">
+  <img width="924" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/40a0dd89-0ed1-4e0d-97f3-875d006eaf0d">
+
