@@ -52,7 +52,7 @@ Team members
   ```
 - open iproperty_eda.ipynb notebook and run the cells for EDA of scrapped data from iProperty.com.my on 2024-02-01
 
-### To run Django Web Application
+### View Django Web Application at __[Team D](https://team-d.onrender.com)__ or Run It Locally
 - Go to django folder
   ```
   cd django
