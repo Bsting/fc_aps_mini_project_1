@@ -19,18 +19,23 @@ def index(request):
   return HttpResponse(template.render(context, request))
 
 # dashboard
+@login_required(login_url='/accounts/login')
 def dashboard_title(request):
   return data_analysis.get_title()
 
+@login_required(login_url='/accounts/login')
 def dashboard_status_pie_chart(request):
   return data_analysis.get_status_pie_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_tenure_pie_chart(request):
   return data_analysis.get_tenure_pie_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_land_title_pie_chart(request):
   return data_analysis.get_land_title_pie_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_pie_chart_description(request):
   return JsonResponse({
     "status": data_analysis.get_status_pie_chart_description(),
@@ -38,15 +43,19 @@ def dashboard_pie_chart_description(request):
     "land_title": data_analysis.get_land_title_pie_chart_description()
   })
 
+@login_required(login_url='/accounts/login')
 def dashboard_property_type_bar_chart(request):
   return data_analysis.get_property_type_bar_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_state_bar_chart(request):
   return data_analysis.get_state_bar_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_city_bar_chart(request):
   return data_analysis.get_city_bar_chart()
 
+@login_required(login_url='/accounts/login')
 def dashboard_bar_chart_description(request):
   return JsonResponse({
     "property_type": data_analysis.get_property_type_bar_chart_description(),
@@ -54,27 +63,34 @@ def dashboard_bar_chart_description(request):
     "city": data_analysis.get_city_bar_chart_description()
   })
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_box_plot(request):
   return data_analysis.get_price_box_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_hist_plot(request):
   return data_analysis.get_price_hist_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_plot_description(request):
   return JsonResponse({
     "box": data_analysis.get_price_box_plot_description(),
     "hist": data_analysis.get_price_hist_plot_description()
   })
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_state_box_plot(request):
   return data_analysis.get_price_state_box_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_land_title_box_plot(request):
   return data_analysis.get_price_land_title_box_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_tenure_box_plot(request):
   return data_analysis.get_price_tenure_box_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_category_plot_description(request):
   return JsonResponse({
     "state": data_analysis.get_price_state_box_plot_description(),
@@ -82,15 +98,19 @@ def dashboard_price_category_plot_description(request):
     "tenure": data_analysis.get_price_tenure_box_plot_description()
   })
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_state_scatter_plot(request):
   return data_analysis.get_price_state_scatter_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_land_title_scatter_plot(request):
   return data_analysis.get_price_land_title_scatter_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_tenure_scatter_plot(request):
   return data_analysis.get_price_tenure_scatter_plot()
 
+@login_required(login_url='/accounts/login')
 def dashboard_price_scatter_plot_description(request):
   return JsonResponse({
     "state": data_analysis.get_price_state_scatter_plot_description(),
@@ -98,7 +118,7 @@ def dashboard_price_scatter_plot_description(request):
     "tenure": data_analysis.get_price_tenure_scatter_plot_description()
   })
 
-#@login_required(login_url='/accounts/login')
+@login_required(login_url='/accounts/login')
 def word_cloud(request):
   template = loader.get_template('pages/word-cloud.html')
   context = {
