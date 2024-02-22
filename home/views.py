@@ -17,7 +17,6 @@ def index(request):
     'dashboard_title': data_analysis.get_title(),
   }
   return HttpResponse(template.render(context, request))
-  #return render(request, 'pages/index.html')
 
 # dashboard
 def dashboard_title(request):
@@ -99,9 +98,13 @@ def dashboard_price_scatter_plot_description(request):
     "tenure": data_analysis.get_price_tenure_scatter_plot_description()
   })
 
-@login_required(login_url='/accounts/login')
+#@login_required(login_url='/accounts/login')
 def word_cloud(request):
-  return render(request, 'pages/word-cloud.html')
+  template = loader.get_template('pages/word-cloud.html')
+  context = {
+    'title': data_analysis.get_title(),
+  }
+  return HttpResponse(template.render(context, request))
 
 def typography(request):
   return render(request, 'pages/typography.html')
