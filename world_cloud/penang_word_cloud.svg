@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:rgba(255, 255, 255, 0)"></rect>
+<text transform="translate(387,292) rotate(-90)" font-size="66" style="fill:rgb(66, 189, 255)">garden</text>
+<text transform="translate(133,364) rotate(-90)" font-size="57" style="fill:rgb(67, 188, 255)">storey</text>
+<text transform="translate(446,545) rotate(-90)" font-size="57" style="fill:rgb(233, 22, 255)">spanish</text>
+<text transform="translate(311,242) rotate(-90)" font-size="53" style="fill:rgb(232, 23, 255)">penang</text>
+<text transform="translate(429,203) rotate(-90)" font-size="49" style="fill:rgb(112, 143, 255)">space</text>
+<text transform="translate(376,552) rotate(-90)" font-size="49" style="fill:rgb(148, 107, 255)">bedroom</text>
+<text transform="translate(307,306)" font-size="20" style="fill:rgb(48, 207, 255)">international</text>
+<text transform="translate(102,370)" font-size="18" style="fill:rgb(215, 40, 255)">area</text>
+<text transform="translate(122,240)" font-size="18" style="fill:rgb(216, 39, 255)">outdoor</text>
+<text transform="translate(165,330) rotate(-90)" font-size="18" style="fill:rgb(229, 26, 255)">school</text>
+<text transform="translate(310,255)" font-size="16" style="fill:rgb(39, 216, 255)">live</text>
+<text transform="translate(134,214)" font-size="16" style="fill:rgb(69, 186, 255)">facility</text>
+<text transform="translate(415,284)" font-size="16" style="fill:rgb(235, 20, 255)">life</text>
+<text transform="translate(320,329)" font-size="16" style="fill:rgb(97, 158, 255)">sungai</text>
+<text transform="translate(315,537)" font-size="16" style="fill:rgb(206, 49, 255)">ara</text>
+<text transform="translate(56,269)" font-size="16" style="fill:rgb(197, 58, 255)">land</text>
+<text transform="translate(314,134)" font-size="16" style="fill:rgb(37, 218, 255)">sit</text>
+<text transform="translate(77,368) rotate(-90)" font-size="16" style="fill:rgb(184, 71, 255)">township</text>
+<text transform="translate(344,55)" font-size="16" style="fill:rgb(214, 41, 255)">surround</text>
+<text transform="translate(411,265)" font-size="16" style="fill:rgb(187, 68, 255)">north</text>
+<text transform="translate(456,205) rotate(-90)" font-size="16" style="fill:rgb(100, 155, 255)">lifestyle</text>
+<text transform="translate(50,228)" font-size="14" style="fill:rgb(214, 41, 255)">centre</text>
+<text transform="translate(334,564)" font-size="14" style="fill:rgb(92, 163, 255)">de</text>
+<text transform="translate(396,248)" font-size="14" style="fill:rgb(172, 83, 255)">richness</text>
+<text transform="translate(315,215)" font-size="14" style="fill:rgb(197, 58, 255)">semidetached</text>
+<text transform="translate(170,251)" font-size="14" style="fill:rgb(153, 102, 255)">love</text>
+<text transform="translate(58,252)" font-size="14" style="fill:rgb(201, 54, 255)">hill</text>
+<text transform="translate(291,266)" font-size="14" style="fill:rgb(138, 117, 255)">family</text>
+<text transform="translate(60,181)" font-size="14" style="fill:rgb(65, 190, 255)">enjoy</text>
+<text transform="translate(395,553) rotate(-90)" font-size="14" style="fill:rgb(106, 149, 255)">strategically</text>
+<text transform="translate(380,323)" font-size="14" style="fill:rgb(163, 92, 255)">zone</text>
+<text transform="translate(339,176) rotate(-90)" font-size="14" style="fill:rgb(125, 130, 255)">mall</text>
+<text transform="translate(264,45)" font-size="14" style="fill:rgb(35, 220, 255)">bandar</text>
+<text transform="translate(125,168)" font-size="14" style="fill:rgb(53, 202, 255)">fontaines</text>
+<text transform="translate(317,105)" font-size="14" style="fill:rgb(157, 98, 255)">room</text>
+<text transform="translate(323,345)" font-size="12" style="fill:rgb(120, 135, 255)">beautifully</text>
+<text transform="translate(457,85) rotate(-90)" font-size="12" style="fill:rgb(81, 174, 255)">level</text>
+<text transform="translate(310,317)" font-size="12" style="fill:rgb(63, 192, 255)">comfort</text>
+<text transform="translate(391,227)" font-size="12" style="fill:rgb(227, 28, 255)">experience</text>
+<text transform="translate(429,427)" font-size="12" style="fill:rgb(255, 0, 255)">green</text>
+<text transform="translate(473,540) rotate(-90)" font-size="12" style="fill:rgb(188, 67, 255)">architecture</text>
+<text transform="translate(37,203)" font-size="12" style="fill:rgb(126, 129, 255)">create</text>
+<text transform="translate(386,379)" font-size="12" style="fill:rgb(179, 76, 255)">people</text>
+<text transform="translate(45,378)" font-size="12" style="fill:rgb(205, 50, 255)">housing</text>
+<text transform="translate(460,412) rotate(-90)" font-size="12" style="fill:rgb(117, 138, 255)">spanishinspired</text>
+<text transform="translate(361,444)" font-size="12" style="fill:rgb(20, 235, 255)">feature</text>
+<text transform="translate(48,238)" font-size="12" style="fill:rgb(251, 4, 255)">window</text>
+<text transform="translate(184,344) rotate(-90)" font-size="12" style="fill:rgb(194, 61, 255)">tile</text>
+<text transform="translate(58,168)" font-size="12" style="fill:rgb(234, 21, 255)">low</text>
+<text transform="translate(148,179)" font-size="12" style="fill:rgb(5, 250, 255)">density</text>
+<text transform="translate(149,192)" font-size="12" style="fill:rgb(223, 32, 255)">range</text>
+<text transform="translate(300,280)" font-size="12" style="fill:rgb(213, 42, 255)">terrain</text>
+<text transform="translate(147,260)" font-size="12" style="fill:rgb(147, 108, 255)">building</text>
+<text transform="translate(134,354)" font-size="12" style="fill:rgb(62, 193, 255)">view</text>
+<text transform="translate(376,418)" font-size="12" style="fill:rgb(176, 79, 255)">lush</text>
+<text transform="translate(345,466) rotate(-90)" font-size="12" style="fill:rgb(160, 95, 255)">inspired</text>
+<text transform="translate(48,279)" font-size="12" style="fill:rgb(225, 30, 255)">find</text>
+<text transform="translate(52,212)" font-size="12" style="fill:rgb(250, 5, 255)">joyous</text>
+<text transform="translate(399,548)" font-size="12" style="fill:rgb(199, 56, 255)">moment</text>
+<text transform="translate(112,382)" font-size="12" style="fill:rgb(240, 15, 255)">alhambra</text>
+<text transform="translate(36,193)" font-size="12" style="fill:rgb(35, 220, 255)">location</text>
+<text transform="translate(137,223)" font-size="12" style="fill:rgb(184, 71, 255)">child</text>
+<text transform="translate(89,369) rotate(-90)" font-size="12" style="fill:rgb(222, 33, 255)">establish</text>
+<text transform="translate(343,392) rotate(-90)" font-size="12" style="fill:rgb(108, 147, 255)">bridge</text>
+<text transform="translate(176,228)" font-size="12" style="fill:rgb(49, 206, 255)">sekolah</text>
+<text transform="translate(398,126) rotate(-90)" font-size="12" style="fill:rgb(87, 168, 255)">kebangsaan</text>
+<text transform="translate(314,195)" font-size="12" style="fill:rgb(136, 119, 255)">bayan</text>
+<text transform="translate(114,153)" font-size="12" style="fill:rgb(240, 15, 255)">radius</text>
+<text transform="translate(440,122) rotate(-90)" font-size="12" style="fill:rgb(192, 63, 255)">shopping</text>
+<text transform="translate(111,329)" font-size="12" style="fill:rgb(220, 35, 255)">outlet</text>
+<text transform="translate(412,210)" font-size="12" style="fill:rgb(192, 63, 255)">gurney</text>
+<text transform="translate(140,306) rotate(-90)" font-size="12" style="fill:rgb(49, 206, 255)">v</text>
+<text transform="translate(397,200) rotate(-90)" font-size="12" style="fill:rgb(243, 12, 255)">visionary</text>
+<text transform="translate(334,80) rotate(-90)" font-size="12" style="fill:rgb(7, 248, 255)">late</text>
+<text transform="translate(332,496) rotate(-90)" font-size="12" style="fill:rgb(213, 42, 255)">collection</text>
+<text transform="translate(60,369) rotate(-90)" font-size="12" style="fill:rgb(34, 221, 255)">highway</text>
+<text transform="translate(187,313) rotate(-90)" font-size="12" style="fill:rgb(158, 97, 255)">variety</text>
+<text transform="translate(458,497) rotate(-90)" font-size="12" style="fill:rgb(18, 237, 255)">amenity</text>
+<text transform="translate(410,518) rotate(-90)" font-size="12" style="fill:rgb(147, 108, 255)">institute</text>
+<text transform="translate(334,524) rotate(-90)" font-size="12" style="fill:rgb(86, 169, 255)">park</text>
+<text transform="translate(331,94)" font-size="12" style="fill:rgb(180, 75, 255)">amansara</text>
+<text transform="translate(173,322) rotate(-90)" font-size="12" style="fill:rgb(67, 188, 255)">property</text>
+<text transform="translate(410,235)" font-size="12" style="fill:rgb(241, 14, 255)">terrace</text>
+<text transform="translate(290,568)" font-size="12" style="fill:rgb(20, 235, 255)">double</text>
+<text transform="translate(322,115)" font-size="12" style="fill:rgb(10, 245, 255)">big</text>
+<text transform="translate(261,29)" font-size="7" style="fill:rgb(238, 17, 255)">multipurpose</text>
+<text transform="translate(327,231)" font-size="7" style="fill:rgb(152, 103, 255)">hall</text>
+<text transform="translate(169,350) rotate(-90)" font-size="7" style="fill:rgb(192, 63, 255)">bbq</text>
+<text transform="translate(146,367)" font-size="7" style="fill:rgb(235, 20, 255)">pit</text>
+<text transform="translate(379,403)" font-size="7" style="fill:rgb(122, 133, 255)">exercise</text>
+<text transform="translate(276,216) rotate(-90)" font-size="7" style="fill:rgb(84, 171, 255)">gym</text>
+<text transform="translate(59,285)" font-size="7" style="fill:rgb(154, 101, 255)">playground</text>
+<text transform="translate(98,261)" font-size="7" style="fill:rgb(138, 117, 255)">condominium</text>
+<text transform="translate(455,106) rotate(-90)" font-size="7" style="fill:rgb(253, 2, 255)">south</text>
+<text transform="translate(316,401)" font-size="7" style="fill:rgb(0, 255, 255)">award</text>
+<text transform="translate(414,252)" font-size="5" style="fill:rgb(126, 129, 255)">preserved</text>
+<text transform="translate(137,247)" font-size="5" style="fill:rgb(30, 225, 255)">island</text>
+<text transform="translate(384,422)" font-size="5" style="fill:rgb(183, 72, 255)">ferringhi</text>
+<text transform="translate(65,383)" font-size="5" style="fill:rgb(75, 180, 255)">take</text>
+<text transform="translate(452,431)" font-size="5" style="fill:rgb(120, 135, 255)">resort</text>
+<text transform="translate(421,324)" font-size="5" style="fill:rgb(17, 238, 255)">resortlike</text>
+<text transform="translate(361,152)" font-size="5" style="fill:rgb(188, 67, 255)">put</text>
+<text transform="translate(396,536)" font-size="5" style="fill:rgb(114, 141, 255)">right</text>
+<text transform="translate(357,554)" font-size="5" style="fill:rgb(202, 53, 255)">paradise</text>
+<text transform="translate(367,311)" font-size="5" style="fill:rgb(126, 129, 255)">tropicalthemed</text>
+<text transform="translate(285,83)" font-size="5" style="fill:rgb(232, 23, 255)">meet</text>
+<text transform="translate(268,228)" font-size="5" style="fill:rgb(244, 11, 255)">cosy</text>
+<text transform="translate(309,179)" font-size="5" style="fill:rgb(92, 163, 255)">living</text>
+<text transform="translate(386,429)" font-size="5" style="fill:rgb(114, 141, 255)">https'</text>
+<text transform="translate(332,46)" font-size="5" style="fill:rgb(227, 28, 255)">una</text>
+<text transform="translate(433,409) rotate(-90)" font-size="5" style="fill:rgb(24, 231, 255)">forma</text>
+<text transform="translate(96,297)" font-size="5" style="fill:rgb(106, 149, 255)">vivir</text>
+<text transform="translate(46,147)" font-size="5" style="fill:rgb(245, 10, 255)">way</text>
+<text transform="translate(307,549)" font-size="5" style="fill:rgb(52, 203, 255)">another</text>
+<text transform="translate(420,288)" font-size="5" style="fill:rgb(202, 53, 255)">stun</text>
+<text transform="translate(94,158)" font-size="5" style="fill:rgb(165, 90, 255)">comprises</text>
+<text transform="translate(306,554)" font-size="5" style="fill:rgb(151, 104, 255)">infused</text>
+<text transform="translate(304,147)" font-size="5" style="fill:rgb(19, 236, 255)">believe</text>
+<text transform="translate(334,182)" font-size="5" style="fill:rgb(6, 249, 255)">full</text>
+<text transform="translate(141,279)" font-size="5" style="fill:rgb(249, 6, 255)">fill</text>
+<text transform="translate(311,286)" font-size="5" style="fill:rgb(55, 200, 255)">memory</text>
+<text transform="translate(150,396)" font-size="5" style="fill:rgb(34, 221, 255)">loved</text>
+<text transform="translate(69,256)" font-size="5" style="fill:rgb(215, 40, 255)">want</text>
+<text transform="translate(283,243)" font-size="5" style="fill:rgb(32, 223, 255)">achieve</text>
+<text transform="translate(372,188)" font-size="5" style="fill:rgb(204, 51, 255)">mean</text>
+<text transform="translate(389,364) rotate(-90)" font-size="5" style="fill:rgb(177, 78, 255)">rich</text>
+<text transform="translate(291,163)" font-size="5" style="fill:rgb(198, 57, 255)">english</text>
+<text transform="translate(351,291)" font-size="5" style="fill:rgb(171, 84, 255)">abundance</text>
+<text transform="translate(312,220)" font-size="5" style="fill:rgb(166, 89, 255)">celebration</text>
+<text transform="translate(449,440)" font-size="5" style="fill:rgb(171, 84, 255)">emotion</text>
+<text transform="translate(279,248)" font-size="5" style="fill:rgb(210, 45, 255)">importantly</text>
+<text transform="translate(96,367) rotate(-90)" font-size="5" style="fill:rgb(246, 9, 255)">luxurious</text>
+<text transform="translate(127,295)" font-size="5" style="fill:rgb(69, 186, 255)">enclave</text>
+<text transform="translate(81,162)" font-size="5" style="fill:rgb(157, 98, 255)">like</text>
+<text transform="translate(412,175)" font-size="5" style="fill:rgb(244, 11, 255)">arched</text>
+<text transform="translate(426,493)" font-size="5" style="fill:rgb(19, 236, 255)">bay</text>
+<text transform="translate(441,512)" font-size="5" style="fill:rgb(15, 240, 255)">profile</text>
+<text transform="translate(60,150)" font-size="5" style="fill:rgb(162, 93, 255)">roof</text>
+<text transform="translate(315,333)" font-size="5" style="fill:rgb(96, 159, 255)">bienvenidos</text>
+<text transform="translate(326,84)" font-size="5" style="fill:rgb(71, 184, 255)">welcome</text>
+<text transform="translate(124,196)" font-size="5" style="fill:rgb(85, 170, 255)">call</text>
+<text transform="translate(76,273)" font-size="5" style="fill:rgb(114, 141, 255)">consist</text>
+<text transform="translate(392,370)" font-size="5" style="fill:rgb(15, 240, 255)">four</text>
+<text transform="translate(41,183)" font-size="5" style="fill:rgb(98, 157, 255)">unique</text>
+<text transform="translate(417,444)" font-size="5" style="fill:rgb(42, 213, 255)">functional</text>
+<text transform="translate(347,132)" font-size="5" style="fill:rgb(145, 110, 255)">practical</text>
+<text transform="translate(49,384)" font-size="5" style="fill:rgb(173, 82, 255)">semi</text>
+<text transform="translate(447,526)" font-size="5" style="fill:rgb(201, 54, 255)">detach</text>
+<text transform="translate(347,173)" font-size="5" style="fill:rgb(87, 168, 255)">bathroom</text>
+<text transform="translate(379,333)" font-size="5" style="fill:rgb(232, 23, 255)">built</text>
+<text transform="translate(53,174) rotate(-90)" font-size="5" style="fill:rgb(83, 172, 255)">elevator</text>
+<text transform="translate(316,203)" font-size="5" style="fill:rgb(218, 37, 255)">develop</text>
+<text transform="translate(423,341)" font-size="5" style="fill:rgb(99, 156, 255)">different</text>
+<text transform="translate(146,358)" font-size="5" style="fill:rgb(149, 106, 255)">fascinate</text>
+<text transform="translate(285,114)" font-size="5" style="fill:rgb(72, 183, 255)">silhouette</text>
+<text transform="translate(372,253)" font-size="5" style="fill:rgb(193, 62, 255)">unobstructed</text>
+<text transform="translate(355,43)" font-size="5" style="fill:rgb(27, 228, 255)">back</text>
+<text transform="translate(294,100)" font-size="5" style="fill:rgb(56, 199, 255)">apart</text>
+<text transform="translate(330,406)" font-size="5" style="fill:rgb(137, 118, 255)">enchant</text>
+<text transform="translate(314,541)" font-size="5" style="fill:rgb(224, 31, 255)">theme</text>
+<text transform="translate(129,333)" font-size="5" style="fill:rgb(85, 170, 255)">dealhambra</text>
+<text transform="translate(338,503) rotate(-90)" font-size="5" style="fill:rgb(174, 81, 255)">sculpture</text>
+<text transform="translate(355,394)" font-size="5" style="fill:rgb(99, 156, 255)">act</text>
+<text transform="translate(349,463)" font-size="5" style="fill:rgb(146, 109, 255)">centrepiece</text>
+<text transform="translate(379,512) rotate(-90)" font-size="5" style="fill:rgb(26, 229, 255)">vase</text>
+<text transform="translate(137,340)" font-size="5" style="fill:rgb(140, 115, 255)">concept</text>
+<text transform="translate(151,183)" font-size="5" style="fill:rgb(185, 70, 255)">installation</text>
+<text transform="translate(203,238)" font-size="5" style="fill:rgb(95, 160, 255)">clothe</text>
+<text transform="translate(364,68)" font-size="5" style="fill:rgb(73, 182, 255)">gorgeous</text>
+<text transform="translate(391,358)" font-size="5" style="fill:rgb(174, 81, 255)">azulejo</text>
+<text transform="translate(363,179)" font-size="5" style="fill:rgb(217, 38, 255)">pattern</text>
+<text transform="translate(85,168)" font-size="5" style="fill:rgb(75, 180, 255)">akin</text>
+<text transform="translate(218,215)" font-size="5" style="fill:rgb(171, 84, 255)">glazed</text>
+<text transform="translate(278,96) rotate(-90)" font-size="5" style="fill:rgb(42, 213, 255)">traditionally</text>
+<text transform="translate(344,522)" font-size="5" style="fill:rgb(13, 242, 255)">use</text>
+<text transform="translate(449,544)" font-size="5" style="fill:rgb(108, 147, 255)">terrance</text>
+<text transform="translate(434,217)" font-size="5" style="fill:rgb(179, 76, 255)">layer</text>
+<text transform="translate(177,197)" font-size="5" style="fill:rgb(118, 137, 255)">atmosphere</text>
+<text transform="translate(397,552)" font-size="5" style="fill:rgb(101, 154, 255)">inspire</text>
+<text transform="translate(312,160)" font-size="5" style="fill:rgb(186, 69, 255)">add</text>
+<text transform="translate(329,284)" font-size="5" style="fill:rgb(169, 86, 255)">friends</text>
+<text transform="translate(113,244)" font-size="5" style="fill:rgb(70, 185, 255)">archway</text>
+<text transform="translate(379,134)" font-size="5" style="fill:rgb(4, 251, 255)">mound</text>
+<text transform="translate(422,383)" font-size="5" style="fill:rgb(104, 151, 255)">vista</text>
+<text transform="translate(380,75)" font-size="5" style="fill:rgb(91, 164, 255)">etc</text>
+<text transform="translate(360,448)" font-size="5" style="fill:rgb(209, 46, 255)">greenery</text>
+<text transform="translate(106,302)" font-size="5" style="fill:rgb(201, 54, 255)">perfect</text>
+<text transform="translate(139,196)" font-size="5" style="fill:rgb(184, 71, 255)">gathering</text>
+<text transform="translate(407,348) rotate(-90)" font-size="5" style="fill:rgb(191, 64, 255)">get</text>
+<text transform="translate(273,49)" font-size="5" style="fill:rgb(64, 191, 255)">know</text>
+<text transform="translate(400,408)" font-size="5" style="fill:rgb(198, 57, 255)">neighbour</text>
+<text transform="translate(355,561)" font-size="5" style="fill:rgb(89, 166, 255)">field</text>
+<text transform="translate(107,237)" font-size="5" style="fill:rgb(204, 51, 255)">day</text>
+<text transform="translate(314,118)" font-size="5" style="fill:rgb(194, 61, 255)">gaze</text>
+<text transform="translate(414,88)" font-size="5" style="fill:rgb(111, 144, 255)">bird</text>
+<text transform="translate(446,416)" font-size="5" style="fill:rgb(190, 65, 255)">butterfly</text>
+<text transform="translate(311,91)" font-size="5" style="fill:rgb(56, 199, 255)">picnic</text>
+<text transform="translate(286,178)" font-size="5" style="fill:rgb(228, 27, 255)">shelter</text>
+<text transform="translate(324,236)" font-size="5" style="fill:rgb(108, 147, 255)">romantic</text>
+<text transform="translate(409,286) rotate(-90)" font-size="5" style="fill:rgb(154, 101, 255)">trellis</text>
+</svg>
