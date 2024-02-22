@@ -52,7 +52,7 @@ Team members
   ```
 - open iproperty_eda.ipynb notebook and run the cells for EDA of scrapped data from iProperty.com.my on 2024-02-01
 
-### To run Django Web Application
+### View Django Web Application at __[Team D (Render)](https://team-d.onrender.com)__ or __[Team D (AWS)](http://ec2-18-143-78-57.ap-southeast-1.compute.amazonaws.com:8000/)__ or Run It Locally
 - Go to django folder
   ```
   cd django
@@ -97,4 +97,6 @@ Team members
   
   <img width="929" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/9b17af93-417e-4d3d-88e7-903400228883">
   <img width="924" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/40a0dd89-0ed1-4e0d-97f3-875d006eaf0d">
+
+
 
