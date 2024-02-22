@@ -99,4 +99,3 @@ Team members
   <img width="924" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/40a0dd89-0ed1-4e0d-97f3-875d006eaf0d">
 
 
-
