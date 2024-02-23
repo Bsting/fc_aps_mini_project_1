@@ -100,7 +100,7 @@ Team members
 
 - Word cloud
 
-  <img width="900" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/3a807f0b-c494-4a2d-a562-d13e7212628a">
+  <img width="900" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/e4d726ab-9eae-4004-8e2d-101527391a03">
   <img width="900" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/473accb0-ecb5-444e-9a45-ede3dad94610">
   <img width="900" alt="image" src="https://github.com/Bsting/fc_aps_mini_project_1/assets/7638997/d772bbc7-07c3-4a1b-a8ef-20b80e46475d">
 
