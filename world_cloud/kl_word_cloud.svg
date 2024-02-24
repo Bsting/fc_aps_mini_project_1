@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="437" height="639">
+<style>@font-face{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;src:url("data:application/font-woff;charset=utf-8;base64,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")format("woff");}</style>
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:rgba(255, 255, 255, 0)"></rect>
+<text transform="translate(64,140)" font-size="66" style="fill:rgb(8, 114, 177)">city</text>
+<text transform="translate(33,224)" font-size="56" style="fill:rgb(10, 115, 178)">park</text>
+<text transform="translate(44,284)" font-size="54" style="fill:rgb(70, 151, 196)">healthcare</text>
+<text transform="translate(171,210)" font-size="52" style="fill:rgb(216, 215, 233)">home</text>
+<text transform="translate(73,325)" font-size="50" style="fill:rgb(86, 157, 200)">wellness</text>
+<text transform="translate(197,514)" font-size="50" style="fill:rgb(94, 160, 202)">design</text>
+<text transform="translate(111,388)" font-size="48" style="fill:rgb(5, 101, 159)">lifestyle</text>
+<text transform="translate(155,565)" font-size="48" style="fill:rgb(229, 225, 239)">centre</text>
+<text transform="translate(309,177)" font-size="46" style="fill:rgb(230, 226, 239)">live</text>
+<text transform="translate(220,458)" font-size="42" style="fill:rgb(240, 234, 244)">medical</text>
+<text transform="translate(70,85)" font-size="42" style="fill:rgb(4, 95, 149)">feature</text>
+<text transform="translate(230,116)" font-size="42" style="fill:rgb(13, 117, 179)">green</text>
+<text transform="translate(13,170)" font-size="34" style="fill:rgb(243, 237, 245)">facility</text>
+<text transform="translate(133,421)" font-size="32" style="fill:rgb(57, 145, 193)">hospital</text>
+<text transform="translate(175,590)" font-size="32" style="fill:rgb(221, 219, 236)">suite</text>
+<text transform="translate(231,252)" font-size="32" style="fill:rgb(213, 213, 232)">view</text>
+<text transform="translate(100,344)" font-size="25" style="fill:rgb(4, 94, 147)">experience</text>
+<text transform="translate(134,443)" font-size="25" style="fill:rgb(198, 204, 227)">space</text>
+<text transform="translate(18,189)" font-size="23" style="fill:rgb(228, 225, 239)">retail</text>
+<text transform="translate(208,167)" font-size="23" style="fill:rgb(24, 124, 182)">living</text>
+<text transform="translate(288,134)" font-size="23" style="fill:rgb(63, 147, 194)">pantai</text>
+<text transform="translate(264,344)" font-size="23" style="fill:rgb(228, 225, 239)">access</text>
+<text transform="translate(105,531)" font-size="23" style="fill:rgb(215, 214, 233)">bangsar</text>
+<text transform="translate(222,143)" font-size="23" style="fill:rgb(213, 213, 232)">area</text>
+<text transform="translate(271,233)" font-size="21" style="fill:rgb(156, 185, 217)">link</text>
+<text transform="translate(194,474)" font-size="21" style="fill:rgb(4, 89, 140)">international</text>
+<text transform="translate(294,197)" font-size="21" style="fill:rgb(117, 169, 207)">private</text>
+<text transform="translate(81,241)" font-size="21" style="fill:rgb(132, 176, 211)">convenience</text>
+<text transform="translate(329,417)" font-size="21" style="fill:rgb(7, 113, 177)">hub</text>
+<text transform="translate(211,530)" font-size="21" style="fill:rgb(74, 152, 197)">surround</text>
+<text transform="translate(167,222)" font-size="14" style="fill:rgb(171, 191, 220)">neighbourhood</text>
+<text transform="translate(381,126) rotate(-90)" font-size="14" style="fill:rgb(111, 167, 206)">bbcc</text>
+<text transform="translate(89,50)" font-size="14" style="fill:rgb(4, 92, 144)">transit</text>
+<text transform="translate(371,147)" font-size="14" style="fill:rgb(5, 105, 164)">mont</text>
+<text transform="translate(328,87)" font-size="14" style="fill:rgb(162, 188, 218)">tower</text>
+<text transform="translate(328,569)" font-size="14" style="fill:rgb(101, 163, 203)">exclusive</text>
+<text transform="translate(61,148) rotate(-90)" font-size="14" style="fill:rgb(32, 129, 185)">bedroom</text>
+<text transform="translate(144,500)" font-size="14" style="fill:rgb(5, 111, 175)">find</text>
+<text transform="translate(346,303)" font-size="13" style="fill:rgb(238, 233, 243)">klwc</text>
+<text transform="translate(327,546)" font-size="13" style="fill:rgb(255, 247, 251)">tertiary</text>
+<text transform="translate(115,596)" font-size="13" style="fill:rgb(204, 207, 229)">premium</text>
+<text transform="translate(66,250)" font-size="13" style="fill:rgb(113, 168, 206)">connect</text>
+<text transform="translate(114,559)" font-size="13" style="fill:rgb(192, 201, 226)">best</text>
+<text transform="translate(153,469)" font-size="13" style="fill:rgb(220, 218, 235)">urban</text>
+<text transform="translate(120,510)" font-size="13" style="fill:rgb(96, 161, 202)">community</text>
+<text transform="translate(270,358)" font-size="13" style="fill:rgb(3, 77, 121)">forest</text>
+<text transform="translate(181,484)" font-size="13" style="fill:rgb(253, 245, 250)">late</text>
+<text transform="translate(23,283) rotate(-90)" font-size="13" style="fill:rgb(210, 211, 231)">integrate</text>
+<text transform="translate(175,96)" font-size="13" style="fill:rgb(242, 236, 245)">amenity</text>
+<text transform="translate(335,59)" font-size="13" style="fill:rgb(2, 61, 96)">jalan</text>
+<text transform="translate(181,176)" font-size="12" style="fill:rgb(236, 231, 242)">cosmopolitan</text>
+<text transform="translate(370,258)" font-size="12" style="fill:rgb(204, 207, 229)">rare</text>
+<text transform="translate(259,482)" font-size="12" style="fill:rgb(3, 66, 103)">smart</text>
+<text transform="translate(347,623) rotate(-90)" font-size="12" style="fill:rgb(28, 127, 184)">datum</text>
+<text transform="translate(165,399)" font-size="12" style="fill:rgb(2, 57, 90)">jelatek</text>
+<text transform="translate(215,354)" font-size="12" style="fill:rgb(4, 83, 130)">ashwood</text>
+<text transform="translate(307,249)" font-size="12" style="fill:rgb(214, 214, 233)">privacy</text>
+<text transform="translate(178,597)" font-size="10" style="fill:rgb(90, 158, 201)">pedestrian</text>
+<text transform="translate(99,35)" font-size="10" style="fill:rgb(244, 238, 246)">southeast</text>
+<text transform="translate(237,292)" font-size="10" style="fill:rgb(245, 238, 246)">ecosystem</text>
+<text transform="translate(315,320)" font-size="10" style="fill:rgb(244, 238, 246)">range</text>
+<text transform="translate(362,523)" font-size="10" style="fill:rgb(217, 216, 234)">service</text>
+<text transform="translate(306,586)" font-size="10" style="fill:rgb(78, 154, 198)">tourist</text>
+<text transform="translate(394,440)" font-size="10" style="fill:rgb(5, 102, 160)">bed</text>
+<text transform="translate(128,129)" font-size="10" style="fill:rgb(41, 135, 188)">part</text>
+<text transform="translate(229,395)" font-size="10" style="fill:rgb(129, 174, 210)">business</text>
+<text transform="translate(109,177)" font-size="10" style="fill:rgb(246, 239, 247)">central</text>
+<text transform="translate(340,483)" font-size="10" style="fill:rgb(4, 92, 144)">together</text>
+<text transform="translate(318,208)" font-size="10" style="fill:rgb(98, 162, 203)">modern</text>
+<text transform="translate(151,148)" font-size="10" style="fill:rgb(198, 204, 227)">comfort</text>
+<text transform="translate(170,58)" font-size="10" style="fill:rgb(139, 178, 212)">masterplan</text>
+<text transform="translate(234,432)" font-size="10" style="fill:rgb(240, 234, 244)">safe</text>
+<text transform="translate(316,426)" font-size="10" style="fill:rgb(4, 96, 151)">landscape</text>
+<text transform="translate(388,284) rotate(-90)" font-size="10" style="fill:rgb(227, 224, 238)">walk</text>
+<text transform="translate(26,294)" font-size="10" style="fill:rgb(4, 91, 143)">additional</text>
+<text transform="translate(32,242) rotate(-90)" font-size="10" style="fill:rgb(164, 188, 218)">security</text>
+<text transform="translate(330,310) rotate(-90)" font-size="10" style="fill:rgb(3, 75, 118)">reserve</text>
+<text transform="translate(316,397)" font-size="10" style="fill:rgb(147, 181, 214)">minute</text>
+<text transform="translate(361,360) rotate(-90)" font-size="10" style="fill:rgb(88, 158, 200)">complete</text>
+<text transform="translate(393,189)" font-size="10" style="fill:rgb(222, 220, 236)">swnk</text>
+<text transform="translate(314,73)" font-size="10" style="fill:rgb(76, 153, 197)">houze</text>
+<text transform="translate(278,412)" font-size="10" style="fill:rgb(247, 240, 247)">away</text>
+<text transform="translate(83,377)" font-size="10" style="fill:rgb(3, 77, 121)">mrt</text>
+<text transform="translate(119,58)" font-size="10" style="fill:rgb(3, 67, 105)">land</text>
+<text transform="translate(384,197)" font-size="10" style="fill:rgb(245, 238, 246)">luxury</text>
+<text transform="translate(120,212)" font-size="10" style="fill:rgb(154, 184, 216)">air</text>
+<text transform="translate(59,338) rotate(-90)" font-size="10" style="fill:rgb(209, 210, 230)">quality</text>
+<text transform="translate(333,554)" font-size="10" style="fill:rgb(243, 237, 245)">lounge</text>
+<text transform="translate(176,608)" font-size="10" style="fill:rgb(187, 199, 224)">heart</text>
+<text transform="translate(382,424)" font-size="10" style="fill:rgb(210, 211, 231)">locale</text>
+<text transform="translate(164,450)" font-size="10" style="fill:rgb(132, 176, 211)">talisa</text>
+<text transform="translate(137,110) rotate(-90)" font-size="10" style="fill:rgb(254, 246, 250)">road</text>
+<text transform="translate(225,483)" font-size="10" style="fill:rgb(2, 56, 88)">water</text>
+<text transform="translate(90,292)" font-size="10" style="fill:rgb(113, 168, 206)">invite</text>
+<text transform="translate(362,467)" font-size="10" style="fill:rgb(4, 88, 138)">enjoy</text>
+<text transform="translate(318,217)" font-size="10" style="fill:rgb(197, 204, 227)">embassy</text>
+<text transform="translate(75,344)" font-size="10" style="fill:rgb(22, 123, 182)">ring</text>
+<text transform="translate(224,604)" font-size="10" style="fill:rgb(101, 163, 203)">four</text>
+<text transform="translate(368,413)" font-size="10" style="fill:rgb(192, 201, 226)">equip</text>
+<text transform="translate(268,575)" font-size="10" style="fill:rgb(4, 89, 140)">edgewood</text>
+<text transform="translate(66,94)" font-size="10" style="fill:rgb(7, 113, 177)">setapak</text>
+<text transform="translate(346,532)" font-size="8" style="fill:rgb(64, 148, 195)">distance</text>
+<text transform="translate(172,166)" font-size="8" style="fill:rgb(30, 128, 184)">bridge</text>
+<text transform="translate(181,294)" font-size="7" style="fill:rgb(120, 171, 208)">comprehensive</text>
+<text transform="translate(375,78) rotate(-90)" font-size="7" style="fill:rgb(241, 235, 245)">asia</text>
+<text transform="translate(332,231)" font-size="7" style="fill:rgb(248, 241, 248)">fully</text>
+<text transform="translate(79,124)" font-size="7" style="fill:rgb(48, 140, 190)">integrated</text>
+<text transform="translate(203,458)" font-size="7" style="fill:rgb(90, 158, 201)">full</text>
+<text transform="translate(129,19)" font-size="7" style="fill:rgb(238, 233, 243)">fitness</text>
+<text transform="translate(405,468) rotate(-90)" font-size="7" style="fill:rgb(4, 82, 128)">tourism</text>
+<text transform="translate(128,393)" font-size="7" style="fill:rgb(74, 152, 197)">encompass</text>
+<text transform="translate(292,157)" font-size="7" style="fill:rgb(249, 242, 248)">bring</text>
+<text transform="translate(368,48)" font-size="7" style="fill:rgb(4, 83, 130)">golden</text>
+<text transform="translate(107,544)" font-size="7" style="fill:rgb(38, 133, 187)">opportunity</text>
+<text transform="translate(134,486)" font-size="7" style="fill:rgb(2, 62, 98)">suit</text>
+<text transform="translate(26,255)" font-size="7" style="fill:rgb(4, 91, 143)">nobel</text>
+<text transform="translate(404,557) rotate(-90)" font-size="7" style="fill:rgb(224, 222, 237)">propose</text>
+<text transform="translate(131,427)" font-size="7" style="fill:rgb(10, 115, 178)">stateoftheart</text>
+<text transform="translate(319,312) rotate(-90)" font-size="7" style="fill:rgb(5, 103, 161)">breathtaking</text>
+<text transform="translate(378,503)" font-size="7" style="fill:rgb(209, 210, 230)">take</text>
+<text transform="translate(385,133)" font-size="7" style="fill:rgb(164, 188, 218)">level</text>
+<text transform="translate(132,457)" font-size="7" style="fill:rgb(215, 214, 233)">seamless</text>
+<text transform="translate(283,420)" font-size="7" style="fill:rgb(175, 193, 221)">digital</text>
+<text transform="translate(43,237)" font-size="7" style="fill:rgb(214, 214, 233)">become</text>
+<text transform="translate(312,408)" font-size="7" style="fill:rgb(181, 196, 223)">tree</text>
+<text transform="translate(137,569)" font-size="7" style="fill:rgb(198, 204, 227)">launch</text>
+<text transform="translate(280,536)" font-size="7" style="fill:rgb(33, 130, 185)">consist</text>
+<text transform="translate(195,536)" font-size="7" style="fill:rgb(3, 72, 113)">environment</text>
+<text transform="translate(110,184)" font-size="7" style="fill:rgb(224, 222, 237)">overall</text>
+<text transform="translate(426,192) rotate(-90)" font-size="7" style="fill:rgb(250, 242, 248)">surveillance</text>
+<text transform="translate(2,272)" font-size="7" style="fill:rgb(13, 117, 179)">top</text>
+<text transform="translate(135,580)" font-size="7" style="fill:rgb(2, 60, 95)">create</text>
+<text transform="translate(325,576)" font-size="7" style="fill:rgb(222, 220, 236)">mature</text>
+<text transform="translate(11,300)" font-size="7" style="fill:rgb(255, 247, 251)">expressway</text>
+<text transform="translate(116,411) rotate(-90)" font-size="7" style="fill:rgb(30, 128, 184)">mrr</text>
+<text transform="translate(134,381) rotate(-90)" font-size="7" style="fill:rgb(36, 132, 186)">enhance</text>
+<text transform="translate(166,101)" font-size="6" style="fill:rgb(55, 144, 192)">strategically</text>
+<text transform="translate(170,129)" font-size="6" style="fill:rgb(16, 119, 180)">hotel</text>
+<text transform="translate(328,239)" font-size="6" style="fill:rgb(38, 133, 187)">garden</text>
+<text transform="translate(230,230)" font-size="6" style="fill:rgb(90, 158, 201)">right</text>
+<text transform="translate(61,330)" font-size="6" style="fill:rgb(3, 72, 113)">strategic</text>
+<text transform="translate(32,137)" font-size="6" style="fill:rgb(59, 146, 193)">step</text>
+<text transform="translate(157,377)" font-size="6" style="fill:rgb(4, 97, 152)">lrt</text>
+<text transform="translate(83,116)" font-size="6" style="fill:rgb(143, 180, 214)">choice</text>
+<text transform="translate(317,327)" font-size="6" style="fill:rgb(184, 198, 224)">sanctuary</text>
+<text transform="translate(244,89)" font-size="6" style="fill:rgb(111, 167, 206)">familysized</text>
+<text transform="translate(367,289) rotate(-90)" font-size="6" style="fill:rgb(197, 204, 227)">spaciousness</text>
+<text transform="translate(196,359)" font-size="6" style="fill:rgb(180, 196, 223)">multifunctional</text>
+<text transform="translate(288,178)" font-size="6" style="fill:rgb(35, 131, 186)">per</text>
+<text transform="translate(328,139)" font-size="6" style="fill:rgb(231, 227, 240)">floor</text>
+<text transform="translate(151,349)" font-size="6" style="fill:rgb(61, 147, 194)">isolator</text>
+<text transform="translate(328,348)" font-size="6" style="fill:rgb(150, 182, 215)">easy</text>
+<text transform="translate(153,187)" font-size="6" style="fill:rgb(18, 120, 180)">point</text>
+<text transform="translate(111,393)" font-size="6" style="fill:rgb(210, 210, 231)">sky</text>
+<text transform="translate(282,151) rotate(-90)" font-size="6" style="fill:rgb(5, 107, 167)">panoramic</text>
+<text transform="translate(307,591)" font-size="6" style="fill:rgb(248, 241, 248)">spacious</text>
+<text transform="translate(372,202)" font-size="6" style="fill:rgb(134, 176, 211)">alongside</text>
+<text transform="translate(155,479)" font-size="6" style="fill:rgb(101, 163, 203)">hill</text>
+<text transform="translate(350,308)" font-size="6" style="fill:rgb(3, 69, 108)">concept</text>
+<text transform="translate(307,481)" font-size="6" style="fill:rgb(4, 100, 158)">vibrant</text>
+<text transform="translate(388,430)" font-size="6" style="fill:rgb(4, 98, 153)">elite</text>
+<text transform="translate(165,120)" font-size="6" style="fill:rgb(7, 113, 177)">mall</text>
+<text transform="translate(311,431)" font-size="6" style="fill:rgb(5, 111, 175)">prestigious</text>
+<text transform="translate(92,101)" font-size="6" style="fill:rgb(5, 109, 171)">nature</text>
+<text transform="translate(131,251)" font-size="6" style="fill:rgb(200, 205, 228)">young</text>
+<text transform="translate(403,146)" font-size="6" style="fill:rgb(211, 212, 231)">pool</text>
+<text transform="translate(108,388) rotate(-90)" font-size="6" style="fill:rgb(243, 237, 245)">rejuvenate</text>
+<text transform="translate(249,271)" font-size="6" style="fill:rgb(27, 126, 183)">along</text>
+<text transform="translate(151,42)" font-size="6" style="fill:rgb(150, 182, 215)">oasis</text>
+<text transform="translate(168,550)" font-size="6" style="fill:rgb(150, 182, 215)">life</text>
+<text transform="translate(23,262)" font-size="6" style="fill:rgb(161, 187, 218)">cater</text>
+<text transform="translate(127,25)" font-size="6" style="fill:rgb(4, 93, 146)">balance</text>
+<text transform="translate(46,230)" font-size="6" style="fill:rgb(125, 172, 209)">ideal</text>
+<text transform="translate(170,271) rotate(-90)" font-size="6" style="fill:rgb(5, 111, 175)">podium</text>
+<text transform="translate(115,515)" font-size="6" style="fill:rgb(98, 162, 203)">enclave</text>
+<text transform="translate(157,515)" font-size="6" style="fill:rgb(4, 84, 131)">world</text>
+<text transform="translate(168,570)" font-size="6" style="fill:rgb(142, 179, 213)">comfortable</text>
+<text transform="translate(301,294) rotate(-90)" font-size="6" style="fill:rgb(36, 132, 186)">investment</text>
+<text transform="translate(378,511)" font-size="6" style="fill:rgb(227, 224, 238)">indulge</text>
+<text transform="translate(298,86)" font-size="6" style="fill:rgb(2, 60, 95)">balcony</text>
+<text transform="translate(103,190)" font-size="6" style="fill:rgb(70, 151, 196)">interior</text>
+<text transform="translate(355,68)" font-size="6" style="fill:rgb(47, 139, 190)">hot</text>
+<text transform="translate(189,349)" font-size="6" style="fill:rgb(224, 221, 237)">washer</text>
+<text transform="translate(332,357)" font-size="6" style="fill:rgb(217, 216, 234)">dryer</text>
+<text transform="translate(379,555)" font-size="6" style="fill:rgb(4, 88, 138)">door</text>
+<text transform="translate(198,426)" font-size="6" style="fill:rgb(208, 209, 230)">perfect</text>
+<text transform="translate(132,9)" font-size="6" style="fill:rgb(5, 112, 176)">uthant</text>
+<text transform="translate(164,455)" font-size="6" style="fill:rgb(214, 214, 233)">affluent</text>
+<text transform="translate(248,400)" font-size="6" style="fill:rgb(249, 242, 248)">truly</text>
+<text transform="translate(10,262) rotate(-90)" font-size="6" style="fill:rgb(4, 96, 151)">privilege</text>
+<text transform="translate(292,146)" font-size="6" style="fill:rgb(236, 231, 242)">light</text>
+<text transform="translate(156,302)" font-size="6" style="fill:rgb(3, 70, 110)">mass</text>
+<text transform="translate(107,161)" font-size="6" style="fill:rgb(5, 109, 171)">add</text>
+<text transform="translate(320,531)" font-size="6" style="fill:rgb(3, 66, 103)">call</text>
+<text transform="translate(137,89)" font-size="5" style="fill:rgb(3, 66, 103)">skysanctuary</text>
+<text transform="translate(340,43)" font-size="5" style="fill:rgb(3, 75, 118)">township</text>
+<text transform="translate(217,250)" font-size="5" style="fill:rgb(158, 186, 217)">rapid</text>
+<text transform="translate(66,99)" font-size="5" style="fill:rgb(70, 151, 196)">station</text>
+<text transform="translate(68,237)" font-size="4" style="fill:rgb(240, 234, 244)">block</text>
+<text transform="translate(175,536)" font-size="4" style="fill:rgb(66, 149, 195)">towerng</text>
+</svg>
